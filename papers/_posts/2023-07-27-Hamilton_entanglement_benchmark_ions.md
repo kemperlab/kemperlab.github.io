@@ -1,8 +1,6 @@
-
 ---
 layout  : paper
-title   : Evaluating robust entanglement on a trapped ion
-platform
+title   : Evaluating robust entanglement on a trapped ion platform
 authors : Hamilton K, Yeter-Aydeniz K, Zhao L, Francis A, Cooley H, Barron G, Economou S, Kang M, Morris T, Laanait N, Kemper AF, Pooser R
 year    : 2023
 ref     : "K. Hamilton et al., QCE 2023"
