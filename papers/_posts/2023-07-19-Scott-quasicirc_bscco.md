@@ -3,11 +3,12 @@ layout  : paper
 title   : Low-energy quasi-circular electron correlations with charge order wavelength in Bi<sub>2</sub>Sr<sub>2</sub>CaCu<sub>2</sub>O<sub>8+delta</sub>
 authors : Scott K, Kisiel E, Boyle TJ, Basak R, Jargot G, Das S, Agrestini S, Garcia-Fernandez M, Choi J, Pelliciari J, Li J, Chuang YD, Zhong RD, Schneeloch JA, Gu GD, Légaré F, Kemper AF, Zhou KJ, Bisogni V, Blanco-Canosa S, Frano A, Boschini F, da Silva Neto EH
 year    : 2023
-ref     : "K. Scott et al., arXiv:2301.08415"
-journal : arXiv:2301.08415
+ref     : "K. Scott et al., Sci. Adv. 2023"
+journal : Sci. Adv. 9, eadg3710 (2023)
 arxiv   : 2301.08415
 image   : /images/papers/scott_quasicirc.png
 ncsu    : True
+doi     : 10.1126/sciadv.adg3710
 ---
 
 # Abstract
