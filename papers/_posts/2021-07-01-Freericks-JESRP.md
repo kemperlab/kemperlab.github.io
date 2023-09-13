@@ -3,7 +3,7 @@ layout  : paper
 title   : What do the two times in two-time correlation functions mean for interpreting tr-ARPES?
 authors : Freericks JK, Kemper AF
 year    : 2021
-ref     : "J.K. Freericks, JESRP (2021)"
+ref     : "J.K. Freericks et al., JESRP (2021)"
 journal : Journal of Electron Spectroscopy and Related Phenomena, 251, 147104
 arxiv   : 2109.13444
 doi     : 10.1016/j.elspec.2021.147104

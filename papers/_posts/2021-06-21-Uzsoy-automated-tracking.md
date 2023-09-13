@@ -3,7 +3,7 @@ layout  : paper
 title   : Automated tracking of S. pombe spindle elongation dynamics
 authors : Uzsoy ASM, Zareiesfandabadi P, Jennings J, Kemper AF, Elting MW
 year    : 2021
-ref     : "Uzsoy et al, Journal of Microscopy (2021)"
+ref     : "Uzsoy et al., Journal of Microscopy (2021)"
 journal : "Journal of Microscopy 10.1111/jmi.13044"
 image   : /images/papers/uzsoy_spindle.png
 doi     : 10.1101/2020.10.09.333765 
