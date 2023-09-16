@@ -1,6 +1,6 @@
 ---
 layout  : paper
-title   : Classification of dynamical Lie algebras for translation-invatiant 2-local spin systems in one dimension
+title   : Classification of dynamical Lie algebras for translation-invariant 2-local spin systems in one dimension
 authors : Wiersema R, K&#0246;kc&#0252; E, Kemper AF, Bakalov B
 year    : 2023
 ref     : "R Wiersema et al., arXiv:2309.05690"
