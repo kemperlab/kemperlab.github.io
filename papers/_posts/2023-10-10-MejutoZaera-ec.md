@@ -3,7 +3,7 @@ layout  : paper
 title   : Quantum Eigenvector Continuation for Chemistry Applications
 authors : Mejuto-Zaera C, Kemper AF
 year    : 2023
-ref     : "C. Mejuto-Zaera et al., Electron. Struct."
+ref     : "C. Mejuto-Zaera et al., Electron. Struct. 2023"
 journal : 2023 Electron. Struct. https://doi.org/10.1088/2516-1075/ad018f
 arxiv   : "2305.00060"
 image   : /images/papers/molecule_dimer_ec.png
