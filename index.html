@@ -28,10 +28,10 @@ categories:
 <div class="bigspacer"></div>
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
         <div class="head">
             <a class="off" href="{{ site.baseurl }}/papers/">
-                Publications
+                Recent Publications
             </a>
         </div>
         <div class="bigspacer"></div>
@@ -40,12 +40,13 @@ categories:
                 <div class="note">
                     <i class="fa fa-file-text fa-fw"></i>
                     <a class="off" href="{{ site.baseurl }}{{ paper.url }}">
-                    {{ paper.title }}. {{ paper.ref }}
+                        {{ paper.title }}. <!--<br>{{ paper.ref }}-->
                     </a>
                 </div>
                 <div class="smallspacer"></div>
                 <div class="smallnote">
-                    Posted
+                    {{ paper.ref }}
+                    <br>Posted
                     {{ paper.date | date: "%-d %b %Y" }}
                 </div>
                 <div class="spacer"></div>
@@ -55,9 +56,10 @@ categories:
         <div class="bigspacer"></div>
     </div>
 
-<!--
+      <!--
   <div class="col-md-5">
       <div class="head">
+
       <a class="twitter-timeline"
       href="https://twitter.com/KemperLab"
       data-height="800"
@@ -68,7 +70,7 @@ categories:
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
   </div>
--->
+    -->
 
 
     <div class="col-md-2">
@@ -107,7 +109,7 @@ categories:
 
         </div>
         <div class="bigspacer"></div>
-    </div>
+    </div>  <!-- end of col-md-2 -->
 
    <!--
   <div class="col-md-4">
@@ -186,7 +188,7 @@ categories:
     </div> -->
 </div>
 
-
+</div>
 <div class="row">
         <div class="col-lg-12 reduced-gutter">
                 <div class="pad-left">
