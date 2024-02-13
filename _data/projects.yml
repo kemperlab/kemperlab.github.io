@@ -1,4 +1,47 @@
 ---
+- repo: kemperlab/sumaq
+  title: sumaq
+  owner: kemperlab
+  description: Spiced Up! More Accessible Quantum
+  url: "/projects/sumaq/"
+  contributors:
+  - login: ArvinSKushwaha
+    avatar: https://avatars.githubusercontent.com/u/38300391?v=4&s=50
+    url: https://github.com/ArvinSKushwaha
+  - login: anormanhogan
+    avatar: https://avatars.githubusercontent.com/u/94230896?v=4&s=50
+    url: https://github.com/anormanhogan
+  - login: ooalshei
+    avatar: https://avatars.githubusercontent.com/u/143346878?v=4&s=50
+    url: https://github.com/ooalshei
+  commits:
+  - date: 2024-01-30 19:32:27.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/sumaq/commit/4b2252c374abc6f2f2144c307d9fa16d8d719442
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
+  - date: 2024-01-30 19:29:24.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/sumaq/commit/83c76900358bed7fbd1ab6e25ba4b9d138f204c7
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
+  - date: 2024-01-19 19:36:32.000000000 Z
+    message: Added tests, fixed bug, attempted starting the pre-defined Hamiltonian
+      operators
+    url: https://github.com/kemperlab/sumaq/commit/a0f0e94bd898505c541f32dafabb0fe6818d9c81
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
+  - date: 2024-01-09 21:53:11.000000000 Z
+    message: Added lehmann_greens_function and retarded_greens_function to helper_functions.py
+    url: https://github.com/kemperlab/sumaq/commit/5aca77bf9bdc12275fccde27fab6b94a39bc83d4
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
+  - date: 2024-01-09 19:57:23.000000000 Z
+    message: Add functions for generating sparse matrix from Pauli operators and SignalAnalysis
+      class
+    url: https://github.com/kemperlab/sumaq/commit/e9787b467b7ba636e0d60e9324b78611eba302ac
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
 - repo: kemperlab/PauliTools
   title: PauliTools
   owner: kemperlab
@@ -47,7 +90,7 @@
 - repo: kemperlab/Cartan_DMFT
   title: Cartan_DMFT
   owner: kemperlab
-  description: 
+  description:
   url: "/projects/Cartan_DMFT/"
   contributors:
   - login: tmsteck
@@ -125,7 +168,7 @@
 - repo: kemperlab/EigenvectorContinuation
   title: EigenvectorContinuation
   owner: kemperlab
-  description: 
+  description:
   url: "/projects/EigenvectorContinuation/"
   contributors:
   - login: jhhoward481
