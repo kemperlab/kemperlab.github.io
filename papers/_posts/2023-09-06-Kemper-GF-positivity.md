@@ -4,7 +4,7 @@ title   : On the Positive Definiteness of Response Functions in the Time Domain
 authors : Kemper AF, Yang C, Gull E
 year    : 2023
 ref     : "A.F. Kemper et al., arXiv:2309.02566"
-journal : arXiv:2309.02566
+journal : arXiv:2309.02566 (Accepted at PRL)
 arxiv   : "2309.02566"
 image   : /images/papers/gf_positivity.png
 ncsu    : True
