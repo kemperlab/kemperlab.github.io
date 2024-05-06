@@ -10,6 +10,7 @@ scholar:
 calendar:
 image: /images/team/jack_howard.jpg
 cv:
+alumni: true
 ---
 
 Jack Howard is an undergraduate physics and computer science double major in NC State’s class
@@ -20,3 +21,5 @@ algebraic methods in order to improve the efficiency and feasibility of quantum 
 Broader areas of his interest include machine learning techniques and other methods of
 improving quantum circuits using topology and graph theory. In his free time, Jack enjoys a good
 book, hike, or rock (for climbing), along with playing games and watching movies with friends.
+
+Jack is now off to get his master's degree in CS.
