@@ -9,7 +9,7 @@ arxiv   : "2204.12400"
 image   : /images/papers/delre_corrfcn.png
 doi     : 10.1103/PhysRevLett.132.100601
 ncsu    : True
-funding : DE-SC0019469, DE-SC0023231 
+funding : "DE-SC0019469, DE-SC0023231"
 ---
 
 # Abstract
