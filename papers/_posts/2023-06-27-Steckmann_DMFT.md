@@ -10,6 +10,7 @@ doi     : 10.1103/PhysRevResearch.5.023198
 image   : /images/papers/steckmann_dmft_phase_diagram.jpg
 ncsu    : True
 pdf     : /pdfs/papers/PhysRevResearch.5.023198.pdf
+funding : DE-SC0019469, DE-SC0023231
 ---
 
 # Abstract

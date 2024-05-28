@@ -9,6 +9,7 @@ arxiv   : 2010.10553
 doi     : 10.21468/SciPostPhysCore.6.1.018
 image   : /images/papers/buckling.png
 ncsu    : True
+funding : DMR-1752713 
 ---
 
 # Abstract

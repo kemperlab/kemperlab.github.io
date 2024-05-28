@@ -9,6 +9,7 @@ arxiv   : "2305.00060"
 image   : /images/papers/molecule_dimer_ec.png
 doi     : 10.1088/2516-1075/ad018f
 ncsu    : True
+funding : DMR-1752713
 ---
 
 # Abstract

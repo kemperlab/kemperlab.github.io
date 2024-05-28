@@ -9,6 +9,7 @@ arxiv   : "2309.02566"
 image   : /images/papers/gf_positivity.png
 ncsu    : True
 doi     : 10.1103/PhysRevLett.132.160403
+funding : DE-SC0023231 
 ---
 
 # Abstract

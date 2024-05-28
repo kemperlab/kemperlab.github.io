@@ -10,6 +10,7 @@ image   : /images/papers/yeter-adeniz-fidelity.png
 pdf     : /pdfs/papers/QIP_22_96_2023.pdf
 doi     : 10.1007/s11128-023-03826-4
 ncsu    : True
+funding :
 ---
 
 # Abstract

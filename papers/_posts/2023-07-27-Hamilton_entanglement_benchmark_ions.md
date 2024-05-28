@@ -10,6 +10,7 @@ doi     :
 image   : /images/papers/hamilton_entanglement_ions.png
 ncsu    : True
 pdf     : /pdfs/papers/QCE23_Hamilton.pdf
+funding : DMR-1752713
 ---
 
 # Abstract

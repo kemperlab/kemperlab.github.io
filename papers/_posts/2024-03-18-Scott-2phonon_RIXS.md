@@ -9,6 +9,7 @@ arxiv   : 2309.15989
 image   : /images/papers/scott_2ph.png
 ncsu    : True
 doi     : 10.1103/PhysRevB.109.125126
+funding : DMR-1752713
 ---
 
 # Abstract

@@ -10,6 +10,7 @@ image   : /images/papers/2DFF_simulation_figure.png
 ncsu    : True
 github  : https://github.com/QuantumComputingLab
 pdf     : /pdfs/papers/kokcu-compression-2.pdf
+funding : "1818914: PFCQC: STAQ"
 ---
 
 # Abstract

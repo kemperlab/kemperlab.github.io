@@ -9,6 +9,7 @@ arxiv   : "2403.12349"
 image   : /images/papers/imag_gf_positivity.png
 ncsu    : True
 github  : https://github.com/CQMP/HankelProjection
+funding : DE-SC0023231
 ---
 
 # Abstract

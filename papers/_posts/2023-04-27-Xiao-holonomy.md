@@ -9,6 +9,7 @@ arxiv   : 2101.07283
 doi     : 10.22331/q-2023-04-27-987
 image   : /images/papers/holonomy.png
 ncsu    : True
+funding : DE-SC0019469
 ---
 
 # Abstract

@@ -9,6 +9,7 @@ arxiv   : 2301.08415
 image   : /images/papers/scott_quasicirc.png
 ncsu    : True
 doi     : 10.1126/sciadv.adg3710
+funding : DMR-1752713
 ---
 
 # Abstract

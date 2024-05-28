@@ -8,6 +8,7 @@ journal : arXiv:2309.09342
 arxiv   : "2309.09342"
 image   : /images/papers/unified_barren_plateaus.png
 ncsu    : True
+funding : "1818914: PFCQC: STAQ"
 ---
 
 # Abstract
