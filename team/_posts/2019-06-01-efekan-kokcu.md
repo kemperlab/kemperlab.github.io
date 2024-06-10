@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Efekan K&#0246;kc&#0252;
+title: Efekan K&#0246;kc&#0252;, Ph.D.
 position: Graduate Researcher
 handle: ekokcu
 email: 
