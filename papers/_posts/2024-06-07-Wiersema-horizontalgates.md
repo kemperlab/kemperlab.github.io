@@ -3,9 +3,9 @@ layout  : paper
 title   : Geometric Quantum Machine Learning with Horizontal Quantum Gates
 authors : Wiersema R, Kemper AF, Bakalov B, Killoran N
 year    : 2024
-ref     : "R Wiersema et al., arXiv:2406.XXXXX"
-journal : arXiv:2406.XXXXX
-arxiv   : "2406.XXXXX"
+ref     : "R Wiersema et al., arXiv:2406.04418"
+journal : arXiv:2406.04418
+arxiv   : "2406.04418"
 image   : /images/papers/horizontal_gates.png
 ncsu    : True
 funding : "2325080: STAQ II"
