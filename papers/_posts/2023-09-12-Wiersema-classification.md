@@ -8,7 +8,7 @@ journal : arXiv:2309.05690
 arxiv   : "2309.05690"
 image   : /images/papers/dla_classification.png
 ncsu    : True
-funding : "1818914: PFCQC: STAQ"
+funding : "1818914: STAQ, 2325080: STAQII"
 ---
 
 # Abstract
