@@ -3,7 +3,7 @@ layout  : paper
 title   : Denoising of Imaginary Time Response Functions with Hankel projections
 authors : Yu Y, Kemper AF, Yang C, Gull E
 year    : 2024
-ref     : "Y. Yang et al., arXiv:2403.12349"
+ref     : "Y. Yu et al., arXiv:2403.12349"
 journal : arXiv:2403.12349
 arxiv   : "2403.12349"
 image   : /images/papers/imag_gf_positivity.png
