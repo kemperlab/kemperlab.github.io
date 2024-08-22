@@ -2,7 +2,7 @@
 layout  : paper
 title   : A Unified Theory of Barren Plateaus for Deep Parametrized Quantum Circuits
 authors : Ragone M, Bakalov BN, Sauvage F, Kemper AF, Ortiz Marrero C, Larocca M, Cerezo M
-year    : 2023
+year    : 2024
 ref     : "M Ragone et al., Nat. Comm. 2024"
 journal : Nature Communications 15, R71723881 (2024)
 arxiv   : "2309.09342"
