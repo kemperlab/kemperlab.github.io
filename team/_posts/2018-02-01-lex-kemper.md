@@ -12,7 +12,7 @@ orcid: 0000-0002-5426-5181
 cv: /pdfs/team/AFKemper_CV.pdf
 ---
 
-Dr. Kemper received his PhD in Physics in 2010 from the University of Florida. He spent 2 years as a postdoctoral research at Stanford University and SLAC National Laboratory followed by serving as an Alvarez Fellow at Lawrence Berkeley National Laboratory before joining the faculty at NC State in 2015 as an assistant professor.
+Dr. Kemper received his PhD in Physics in 2010 from the University of Florida. He spent 2 years as a postdoctoral research at Stanford University and SLAC National Laboratory followed by serving as an Alvarez Fellow at Lawrence Berkeley National Laboratory before joining the faculty at NC State in 2015 as an assistant professor. He was promoted to associate professor in 2020.
 
 During his PhD studies and continuing during his postdoctoral career, he used computational techniques to study the high-Tc cuprate superconductors, and the novel Fe-based superconductors that were discovered in 2006. Using a combination of Density Functional Theory, Quantum Cluster methods and computational modeling he addressed several aspects of the normal and superconducting states in these materials. Of particular note are a study of the gap symmetry in the Fe-based superconductors, as well as a joint experimental-theory paper showing the presence of four-fold symmetry breaking above the ordering temperatures in Co-doped BaFe2As2.
 
