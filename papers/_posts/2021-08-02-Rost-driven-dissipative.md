@@ -8,6 +8,7 @@ journal : arXiv:2108.01183
 arxiv   : 2108.01183
 image   : /images/papers/rost_driven_dissipative.png
 ncsu    : True
+funding : "DE-SC0019469, DE-SC0023231"
 ---
 
 # Abstract
