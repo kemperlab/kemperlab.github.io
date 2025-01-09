@@ -2,7 +2,7 @@
 layout  : paper
 title   : Long-Time Error-Mitigating Simulation of Open Quantum Systems on Near Term Quantum Computers
 authors : Rost B, Del Re L, Earnest N, Kemper AF, Jones B, Freericks JK
-year    : 2024
+year    : 2025
 ref     : "B. Rost et al., arXiv:2108.01183"
 journal : Accepted in NPJQI
 arxiv   : 2108.01183
