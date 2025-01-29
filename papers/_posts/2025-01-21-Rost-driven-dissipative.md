@@ -3,7 +3,7 @@ layout  : paper
 title   : Long-Time Error-Mitigating Simulation of Open Quantum Systems on Near Term Quantum Computers
 authors : Rost B, Del Re L, Earnest N, Kemper AF, Jones B, Freericks JK
 year    : 2025
-ref     : "B. Rost et al., npjqi (2025)"
+ref     : "B. Rost et al., npj Quantum Information (2025)"
 journal : "npj Quantum Information volume 11, Article number: 10 (2025)"
 arxiv   : 2108.01183
 image   : /images/papers/rost_driven_dissipative.png
