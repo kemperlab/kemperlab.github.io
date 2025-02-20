@@ -1,7 +1,7 @@
 ---
 layout  : paper
 title   : Fixed Depth Hamiltonian Simulation via Cartan Decomposition 
-authors : K&#0246;kc&#0252; E, Steckmann T, Freericks JK, Dumitrescu EF, Kemper AF
+authors : K&#0246;kc&#0252; E, Steckmann T, Wang Y, Freericks JK, Dumitrescu EF, Kemper AF
 year    : 2022
 ref     : "E. K&#0246;kc&#0252; et al., Phys. Rev. Lett. (2022)"
 journal : Phys. Rev. Lett. 129, 070501 (2022)
