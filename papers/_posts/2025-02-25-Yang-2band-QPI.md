@@ -6,7 +6,7 @@ year    : 2025
 ref     : "X. Yang et al., arXiv:2502.XXXX"
 journal : arXiv:2502.XXXX
 arxiv   : 2502.XXXX
-image   : /images/paper/qpi_xinze_yang.png
+image   : /images/papers/qpi_xinze_yang.png
 ncsu    : True
 doi     : 
 funding : DMR-1752713
