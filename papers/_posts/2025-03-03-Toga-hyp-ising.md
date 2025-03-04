@@ -1,4 +1,3 @@
-
 ---
 layout  : paper
 title   : Fast Scrambling in Hyperbolic Ising Model 
