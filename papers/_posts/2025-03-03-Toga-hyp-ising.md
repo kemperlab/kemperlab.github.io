@@ -3,7 +3,7 @@ layout  : paper
 title   : Fast Scrambling in Hyperbolic Ising Model 
 authors : Toga G, Samlodia A, Kemper AF
 year    : 2025
-ref     : "G. Toga; et al., arXiv:2503.00114"
+ref     : "G. Toga et al., arXiv:2503.00114"
 journal : arXiv:2503.00114 
 arxiv   : "2503.00114"
 image   : /images/papers/ads2_tesselation.png"
