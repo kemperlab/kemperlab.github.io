@@ -1,7 +1,7 @@
 ---
 layout  : paper
 title   : Mapping the metal-insulator phase diagram by algebraically fast-forwarding dynamics on a cloud quantum computer
-authors : Steckmann T, Keen T, Kemper AF, Dumitrescu EF, Wang Y
+authors : Steckmann T, Keen T, K&#0246;kc&#0252; E, Kemper AF, Dumitrescu EF, Wang Y
 year    : 2023
 ref     : "T. Steckmann et al., PRR (2023)"
 journal : Phys. Rev. Research 5, 023198 (2023)
