@@ -4,7 +4,7 @@ title   : Efficient Fermi-Hubbard model ground-state preparation by coupling to 
 authors : He Z, Kemper AF, Freericks JK
 year    : 2025
 ref     : "Z. He et al., arXiv:2501.13862"
-journal : arXiv:2501.13862
+journal : Accepted in PRA
 arxiv   : "2501.13862"
 image   : /images/papers/he_classical_reservoir.png
 ncsu    : True
