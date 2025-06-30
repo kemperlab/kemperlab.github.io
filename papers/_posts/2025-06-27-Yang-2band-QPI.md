@@ -4,11 +4,11 @@ title   : Intermediate band analysis in Green's functions calculations of quasip
 authors : Yang X, Kemper AF, Gozar A, da Silva Neto EH
 year    : 2025
 ref     : "X. Yang et al., arXiv:2503.03674"
-journal : Accepted in PRB
+journal : Phys. Rev. B 111, 235148 (2025)
 arxiv   : 2503.03674
 image   : /images/papers/qpi_xinze_yang.png
 ncsu    : True
-doi     : 
+doi     : 10.1103/wxj7-3tyj
 funding : DMR-1752713
 ---
 
