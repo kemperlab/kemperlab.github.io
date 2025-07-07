@@ -3,7 +3,7 @@ layout  : paper
 title   : Intermediate band analysis in Green's functions calculations of quasiparticle interference
 authors : Yang X, Kemper AF, Gozar A, da Silva Neto EH
 year    : 2025
-ref     : "X. Yang et al., arXiv:2503.03674"
+ref     : "X. Yang et al., PRB (2025)"
 journal : Phys. Rev. B 111, 235148 (2025)
 arxiv   : 2503.03674
 image   : /images/papers/qpi_xinze_yang.png

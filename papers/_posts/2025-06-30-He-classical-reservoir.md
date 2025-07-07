@@ -3,11 +3,12 @@ layout  : paper
 title   : Efficient Fermi-Hubbard model ground-state preparation by coupling to a classical reservoir in the instantaneous-response limit
 authors : He Z, Kemper AF, Freericks JK
 year    : 2025
-ref     : "Z. He et al., arXiv:2501.13862"
-journal : Accepted in PRA
+ref     : "Z. He et al., PRB (2025)"
+journal : Phys. Rev. B 111, 235152 (2025)
 arxiv   : "2501.13862"
 image   : /images/papers/he_classical_reservoir.png
 ncsu    : True
+doi     : 10.1103/p1mq-8xbg
 funding : DE-SC0023231
 ---
 
