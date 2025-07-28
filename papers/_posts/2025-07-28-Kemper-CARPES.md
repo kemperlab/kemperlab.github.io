@@ -3,7 +3,7 @@ layout  : paper
 title   : Observing two-electron interactions with correlation-ARPES
 authors : Kemper AF, Goto F, Labib HA, Gauthier N, da Silva Neto EH, Boschini F
 year    : 2025
-ref     : "A.F. Kemper et al., accepted in PRB"
+ref     : "A.F. Kemper et al., PRB (2025)"
 journal : Phys. Rev. B 112, 035168 (2025)
 arxiv   : "2505.01504"
 image   : /images/papers/CARPES_diagram.png
