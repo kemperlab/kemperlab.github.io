@@ -6,7 +6,7 @@ year    : 2025
 ref     : "H.A. Labib et al., arXiv:2503.22988"
 journal : arXiv:2507.22988
 arxiv   : "2507.XXXX"
-image   : /images/papers/bloch_py.png"
+image   : /images/papers/bloch_py.png
 ncsu    : True
 funding : "2325080: STAQII, DE-SC0023231"
 ---
