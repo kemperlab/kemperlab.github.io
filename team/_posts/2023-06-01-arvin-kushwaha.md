@@ -10,7 +10,7 @@ scholar:
 calendar:
 image: /images/team/arvin.jpg
 cv:
-alumni: 
+alumni: true
 ---
 
 Arvin Kushwaha (they/them) is an undergraduate triple-majoring in Physics,
