@@ -4,7 +4,7 @@ title: Raghav Jha
 position: Postdoctoral Researcher
 handle: rjha
 email:
-scholar: 1-lEPu4AAAAJ&hl=en
+scholar: 1-lEPu4AAAAJ&hl
 calendar:
 orcid: 
 image: /images/team/raghav.jpg
