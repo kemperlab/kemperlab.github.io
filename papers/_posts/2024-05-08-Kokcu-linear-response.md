@@ -10,7 +10,6 @@ image   : /images/papers/kokcu_linear_response.png
 ncsu    : True
 doi     : 10.1038/s41467-024-47729-z
 pdf     : /pdfs/papers/Kokcu_linearresponse.pdf
-supplement: /pdfs/papers/Kokcu_linearresponse_supp.pdf
 funding : DE-SC0023231
 ---
 
