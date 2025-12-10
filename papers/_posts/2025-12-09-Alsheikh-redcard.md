@@ -5,7 +5,7 @@ authors : Alsheikh O, K&#0246;kc&#0252; E, Bakalov BN, Kemper AF
 year    : 2025
 ref     : "Alsheikh et al., arXiv:2512.06070" 
 journal : "arXiv:2512.06070"
-arxiv   : 2512.06070
+arxiv   : "2512.06070"
 image   : /images/papers/redcard.png
 ncsu    : True
 funding : "2325080: STAQII, DE-SC0023231"
