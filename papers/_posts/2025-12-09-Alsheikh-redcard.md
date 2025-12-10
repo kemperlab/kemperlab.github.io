@@ -1,6 +1,6 @@
 ---
 layout  : paper
-title   : RedCarD&#58; A Quantum Assisted Algorithm for Fixed-Depth Unitary Synthesis \newline{}via Cartan Decomposition
+title   : RedCarD&#58; A Quantum Assisted Algorithm for Fixed-Depth Unitary Synthesis via Cartan Decomposition
 authors : Alsheikh O, K&#0246;kc&#0252; E, Bakalov BN, Kemper AF
 year    : 2025
 ref     : "Alsheikh et al., arXiv:2512.06070" 
