@@ -8,7 +8,7 @@ journal : "arXiv:2512.06070"
 arxiv   : "2512.06070"
 image   : /images/papers/redcard.png
 ncsu    : True
-funding : "2325080: STAQII, DE-SC0023231"
+funding : "2325080: STAQII"
 ---
 
 # Abstract
