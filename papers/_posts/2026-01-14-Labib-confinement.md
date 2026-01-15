@@ -2,12 +2,13 @@
 layout  : paper
 title   : Probing Bound State Relaxation Dynamics in Systems Out-of-Equilibrium on Quantum Computers
 authors : Labib HA, Toga G, Freericks JK, Kemper AF
-year    : 2025
-ref     : "H.A. Labib et al., arXiv:2503.22988"
-journal : "arXiv:2507.22988"
+year    : 2026
+ref     : "H.A. Labib et al., APL Computational Physics (2026)"
+journal : "APL Computational Physics 2, 016102 (2026)"
 arxiv   : "2507.22988"
 image   : /images/papers/bloch_py.png
 ncsu    : True
+doi     : 10.1063/5.0301170
 funding : "2325080: STAQII, DE-SC0023231"
 ---
 
