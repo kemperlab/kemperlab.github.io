@@ -2,12 +2,13 @@
 layout  : paper
 title   : Classical reservoir approach for efficient molecular ground state preparation
 authors : He Z, Zgid D, Kemper AF, Freericks JK
-year    : 2025
-ref     : "He et al., arXiv:2512.21069"
-journal : "arXiv:2512.21069"
+year    : 2026
+ref     : "He et al., APL Quantum (2026)"
+journal : "APL Quantum 3, 016107 (2026)"
 arxiv   : "2512.21069"
 image   : /images/papers/he_classical_reservoir_molecules.png
 ncsu    : True
+doi     : 10.1063/5.0293153
 funding : "DE-SC0023231"
 ---
 
