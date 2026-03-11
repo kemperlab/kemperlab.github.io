@@ -3,9 +3,9 @@ layout  : paper
 title   : JIMWLK on a quantum computer
 authors : Agrawal AA, Budd E, Kemper AF, Skokov VV, Tarasov A, Tiwari S
 year    : 2026
-ref     : "Agrawal et al., arXiv:2602.02516"
-journal : "arXiv:2602.02516"
-arxiv   : 2602.02516
+ref     : "Agrawal et al., arXiv:2603.02516"
+journal : "arXiv:2603.02516"
+arxiv   : 2603.02516
 image   : /images/papers/agrawal-jimwlk.png
 ncsu    : True
 funding : DE-SC0025430, DARPA
