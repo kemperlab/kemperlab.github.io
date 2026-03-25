@@ -8,7 +8,7 @@ journal : "APL Quantum 3, 016107 (2026)"
 arxiv   : "2512.21069"
 image   : /images/papers/he_classical_reservoir_molecules.png
 ncsu    : True
-doi     : 10.1063/5.0293153
+doi     : 
 funding : "DE-SC0023231"
 ---
 
