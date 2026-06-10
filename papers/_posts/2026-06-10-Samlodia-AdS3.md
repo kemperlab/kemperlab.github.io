@@ -1,13 +1,14 @@
 ---
 layout  : paper
 title   : Quantum Ising Model on (2+1)−Dimensional Anti−de Sitter Space using Tensor Networks
-authors : Catterall S, Kemper AF, Meurice Y, Samlodia A, Toga GC
-year    : 2025
-ref     : "Catterall et al., arXiv:2512.20838"
-journal : "arXiv:2512.20838"
+authors : Samlodia A, Catterall S, Kemper AF, Meurice Y, Toga GC
+year    : 2026
+ref     : "Samlodia et al., PRD (2026)"
+journal : "Phys. Rev. D 113, 114507 (2026)"
 arxiv   : "2512.20838"
 image   : /images/papers/toga-ads3.png
 ncsu    : True
+doi     : 10.1103/9rtx-95s6
 funding : "2325080: STAQII"
 ---
 
