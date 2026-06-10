@@ -8,7 +8,7 @@ journal : "arXiv:2603.17971"
 arxiv   : 2603.17971
 image   : /images/papers/carbm.png
 ncsu    : True
-funding : DE-SC0025623, STAQII
+funding : "DE-SC0025623, 2325080: STAQII"
 ---
 
 # Abstract
