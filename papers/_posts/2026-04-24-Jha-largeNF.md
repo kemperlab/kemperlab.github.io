@@ -4,7 +4,7 @@ title   : Quantum simulation of massive Thirring and Gross--Neveu models for arb
 authors : Bakalov BN, Getelina JC, Jha RG, Kemper AF, Liu Y
 year    : 2026
 ref     : "Bakalov et al., PRD (2026)"
-journal : "Accepted in Phys. Rev. D"
+journal : "Phys. Rev. D 113, 114508 (2026)"
 arxiv   : 2602.22313
 image   : /images/papers/jha-largeNF.png
 ncsu    : True
