@@ -4,11 +4,12 @@ title   : Fast Scrambling in the Hyperbolic Ising Model
 authors : Toga G, Samlodia A, Kemper AF
 year    : 2026
 ref     : "G. Toga et al., EPJC (2026)"
-journal : Accepted for publication in European Physical Journal C
+journal : "Eur. Phys. J. C 86, 716 (2026)"
 arxiv   : "2503.00114"
 image   : /images/papers/ads2_tesselation.png"
 ncsu    : True
 funding : "2325080: STAQII"
+doi     : 10.1140/epjc/s10052-026-15988-3
 ---
 
 # Abstract

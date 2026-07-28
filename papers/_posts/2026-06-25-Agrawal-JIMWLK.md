@@ -4,7 +4,7 @@ title   : JIMWLK on a quantum computer
 authors : Agrawal AA, Budd E, Kemper AF, Skokov VV, Tarasov A, Tiwari S
 year    : 2026
 ref     : "Agrawal et al., PRD (2026)"
-journal : "Accepted for publication in Phys. Rev. D"
+journal : "Phys. Rev. D 113, 114047 (2026)"
 arxiv   : 2603.02516
 doi     : 10.1103/d8tc-jkmk
 image   : /images/papers/agrawal-jimwlk.png
