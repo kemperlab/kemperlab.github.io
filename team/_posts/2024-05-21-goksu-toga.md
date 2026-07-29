@@ -9,6 +9,7 @@ calendar:
 orcid: 0000-0002-0316-2502
 image: /images/team/goksu.jpg
 cv: 
+alumni: true
 ---
 
-Goksu Toga joined the Kemper Lab in 2024 as a postdoctoral researcher after graduating from Syracuse University. His research focuses on using Tensor Network methods in conjunction with quantum computing techniques to develop condensed matter and high energy physics simulations.
+Goksu Toga joined the Kemper Lab in 2024 as a postdoctoral researcher after graduating from Syracuse University. His research focuses on using Tensor Network methods in conjunction with quantum computing techniques to develop condensed matter and high energy physics simulations. After a successful stint in our group, he has moved on to Atom Computing.
