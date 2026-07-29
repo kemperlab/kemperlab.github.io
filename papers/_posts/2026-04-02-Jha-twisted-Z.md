@@ -3,9 +3,10 @@ layout  : paper
 title   : Tensor renormalization group approach to critical phenomena via symmetry-twisted partition functions
 authors : Akiyama S, Jha RG, Maeda J, Tanizaki Y, Unmuth-Yockey J
 year    : 2026
-ref     : "Akiyama et al., arXiv:2601.02681"
-journal : "arXiv:2601.02681"
+ref     : "Akiyama et al., PRD (2026)"
+journal : "Phys. Rev. D 113, 074502 (2026)"
 arxiv   : 2601.02681
+doi     : 10.1103/ywhr-lt6w
 image   : /images/papers/jha-twistedZ.png
 ncsu    : True
 funding : DE-SC0025384
