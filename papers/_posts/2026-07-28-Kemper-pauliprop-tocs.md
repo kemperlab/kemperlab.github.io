@@ -3,7 +3,7 @@ layout  : paper
 title   : Efficient computation of real-time correlators using Pauli Propagation
 authors : Kemper AF, Jha RG, Bachar A, Toga GC, Guerrero Perez M, Mayhall NJ
 year    : 2026
-ref     : "A.F. Kemper et al., arXiv (2026)"
+ref     : "A.F. Kemper et al., arXiv:2607.24924"
 journal : "arXiv:2607.24924"
 arxiv   : "2607.24924"
 image   : /images/papers/pauliprop_tocs.png"
