@@ -1,7 +1,7 @@
 ---
 layout  : paper
 title   : Large-scale quantum simulations of dissipative spin-1/2 Heisenberg chains
-authors : Getelina JC, Cox A, Asaduzzaman M, Alsheikh O, Bennink RS, Frericks JK, Kemper AF
+authors : Getelina JC, Cox A, Asaduzzaman M, Alsheikh O, Bennink RS, Freericks JK, Kemper AF
 year    : 2026
 ref     : "J.C. Getelina et al., arXiv:2609.16108"
 journal : "arXiv:2609.16108"
