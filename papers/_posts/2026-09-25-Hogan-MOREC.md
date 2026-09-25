@@ -3,9 +3,9 @@ layout  : paper
 title   : Compact representation of Strongly Correlated Green's Functions&#58; the MOR+EC way to explore phase space
 authors : Hogan N, Kemper AF, Mejuto-Zaera C
 year    : 2026
-ref     : "N. Hogan et al., arXiv:2609.XXXXX"
-journal : "arXiv:2609.XXXXX"
-arxiv   : 2609.XXXXX
+ref     : "N. Hogan et al., arXiv:2609.28647"
+journal : "arXiv:2609.28647"
+arxiv   : 2609.28647
 image   : /images/papers/hogan-morec.png
 ncsu    : True
 funding : "DE-SC0025430"

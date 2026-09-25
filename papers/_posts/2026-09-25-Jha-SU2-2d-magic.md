@@ -3,9 +3,9 @@ layout  : paper
 title   : Non-stabilizerness and entanglement in (2+1)-dimensional SU(2) lattice gauge theory using tensor networks
 authors : Jha RG, Taher JI, Asaduzzaman M, Toga GC, Bakalov BN, Kemper AF
 year    : 2026
-ref     : "Jha et al., arXiv:2609.XXXXX"
-journal : "arXiv:2609.XXXXX"
-arxiv   : 2609.XXXXX
+ref     : "Jha et al., arXiv:2609.28634"
+journal : "arXiv:2609.28634"
+arxiv   : 2609.28634
 image   : /images/papers/jha-su2-magic-1d.png
 ncsu    : True
 funding : "DE-SC0025384"
