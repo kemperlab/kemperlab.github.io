@@ -1,4 +1,19 @@
 ---
+- repo: anormanhogan/mor_ec
+  title: mor_ec
+  owner: anormanhogan
+  description: Python implementation of the code used in arXiv:2609:28647
+  url: "/projects/mor_ec/"
+  contributors:
+  - login: anormanhogan
+    avatar: https://avatars.githubusercontent.com/u/94230896?v=4&s=50
+    url: https://github.com/anormanhogan
+  commits:
+  - date: 2026-10-08 15:36:52.000000000 Z
+    message: morec 1.0.0
+    url: https://github.com/anormanhogan/mor_ec/commit/1e5151bfe3283e0bb7e10c8b513d7a7fccdfeb54
+    author_login: anormanhogan
+    author_url: https://github.com/anormanhogan
 - repo: CQMP/HankelProjection
   title: HankelProjection
   owner: CQMP
